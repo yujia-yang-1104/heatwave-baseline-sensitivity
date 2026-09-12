@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>t2m_p95</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.21158050000668</MDI>
+      <MDI key="STATISTICS_MAXIMUM">28.652921676636</MDI>
+      <MDI key="STATISTICS_MEAN">17.711728139825</MDI>
+      <MDI key="STATISTICS_STDDEV">4.3126944132592</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">52.5</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
